@@ -9,6 +9,7 @@ variable boost converter set at 12V output. The converter includes a convenient 
 The device is made from simple PLA or ABS plastic and optionally TPU for the gaskets, everything is 3d printed using simple ender printers. It includes a sensor stand in the back for fastening the sensor, a cable management bay, cable out holes **(which must be filled with standard silicon to achieve water resistance.)**, and screw joints which must be embedded with threaded inserts for plastic. It hangs from a top window metal bar. 
 The battery sits outside the casing for easy access and recharging. In the future, a solar panel for battery charging will be added to make the system completely autonomous.
 
+3d printable files included in the folder "for 3d print".
 
 Renders of the device :
 
