@@ -20,3 +20,23 @@ Renders of the device :
 ![Fan_module_with_Bathroom_window_and_fans_v3_2023-Aug-16_12-45-48PM-000_CustomizedView307875928_jpg](https://github.com/odyskat/Smart_ventilator/assets/114591654/703a993a-dd3a-4e27-a6ee-15a4fbae1763)
 
 ![Fan_module_with_Bathroom_window_and_fans_v3_2023-Aug-16_12-37-13PM-000_CustomizedView29614088936_jpg](https://github.com/odyskat/Smart_ventilator/assets/114591654/d999ad84-4bbd-4eb5-886f-008a53f8e83a)
+## Electronics
+### Materials:
+1. Arduino nano
+2. Adafruit shtc3 sensor
+3. DC-DC step up converter
+4. Xiaomi redmi power bank 10000 mAh
+5. Reed switch
+6. 4x Arctic f8 80 mm pst fans
+
+
+
+### Wiring:
+
+![Smart ventilator arduino nano wiring_bb](https://github.com/odyskat/Smart_ventilator/assets/114591654/3c27e3be-49cf-438b-ab2f-b38158155270)
+
+![Smart ventilator arduino nano wiring_schem](https://github.com/odyskat/Smart_ventilator/assets/114591654/d03f0cbb-531e-458b-bf0d-97257c2a80df)
+
+
+
+ 
