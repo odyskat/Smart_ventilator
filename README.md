@@ -26,7 +26,7 @@ Renders of the device :
 1. Arduino nano
 2. Adafruit shtc3 sensor
 3. DC-DC step up converter
-4. Xiaomi redmi power bank 10000 mAh
+4. Xiaomi redmi power bank 10000 mAh **(instead of Lilypad power supply used only for example purposes in wiring diagrams)**
 5. Reed switch
 6. 4x Arctic f8 80 mm pst fans
 
